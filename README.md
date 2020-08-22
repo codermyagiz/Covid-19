@@ -27,4 +27,4 @@ Daha sonra klasöre girmek için:
     python3 covid-19.py
 
 ## Çalışma Videosu
-[![Python Trex Game Required Libraries](https://img.youtube.com/vi/Z0O3eQfPWS4/hqdefault.jpg)](https://www.youtube.com/watch?v=lNEC1I2PHD8)
+[![Python Trex Game Required Libraries](https://img.youtube.com/vi/Z0O3eQfPWS4/hqdefault.jpg)](https://www.youtube.com/watch?v=Z0O3eQfPWS4)
