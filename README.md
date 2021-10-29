@@ -1,6 +1,6 @@
 # Covid-19
 
-Python ile Covid-19 uygulaması.
+Python'da Covid kütüphanesi ile istenilen ülkedeki Covid-19'un günlük verilerini gösteren bir uygulama.
 
 ## Gerekli kütüphaneler
 [Covid](https://pypi.org/project/covid/)
@@ -27,4 +27,4 @@ Daha sonra klasöre girmek için:
     python3 covid-19.py
 
 ## Çalışma Videosu
-[![Python Trex Game Required Libraries](https://img.youtube.com/vi/Z0O3eQfPWS4/hqdefault.jpg)](https://www.youtube.com/watch?v=Z0O3eQfPWS4)
+[![Covid-19 Python](https://img.youtube.com/vi/Z0O3eQfPWS4/hqdefault.jpg)](https://www.youtube.com/watch?v=Z0O3eQfPWS4)
